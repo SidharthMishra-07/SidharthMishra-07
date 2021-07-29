@@ -1,7 +1,6 @@
-<div align="center">
 ## Hi there, I am Sidharth <img src="assets/Wave.gif" width="30px" />
 ### A Web Developer and a Tech Enthusiast
-</div>
+
 
 <p align="center">
 <img src="assets/CodeGif.gif" />
