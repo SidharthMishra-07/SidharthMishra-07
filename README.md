@@ -49,8 +49,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidharthMishra-07&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
-
+## <img src="https://www.iconpacks.net/icons/2/free-handshake-icon-3312-thumb.png" width="20" height="20"> Connect With Me
 
 
 
