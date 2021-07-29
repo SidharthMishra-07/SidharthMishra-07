@@ -37,10 +37,15 @@
 </p>
 
 ---
-### 📕 My Blog Posts
+
+## 📕 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [What Is AJAX?](https://medium.com/codechef-vit/what-is-ajax-ddb403e3478e?source=rss-7aab693898a------2)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 
 
