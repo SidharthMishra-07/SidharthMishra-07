@@ -49,7 +49,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidharthMishra-07&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
