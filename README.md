@@ -44,10 +44,13 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-## :electron: My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidharthMishra-07&hide=stars&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## :octocat: My Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidharthMishra-07&hide=stars&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidharthMishra-07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidharthMishra-07&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
