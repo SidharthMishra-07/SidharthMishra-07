@@ -1,5 +1,9 @@
-## Hi there, I am Sidharth <img src="assets/Wave.gif" width="30px" />
-### A Web Developer and a Tech Enthusiast
+<div align="center">
+
+# Hey there, I am Sidharth <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30"> 
+## A Web developer and a Tech Enthusiast
+  
+ </div>
 
 
 <p align="center">
