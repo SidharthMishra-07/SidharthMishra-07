@@ -51,7 +51,7 @@
 
 ---
 
-## <img src="https://www.iconpacks.net/icons/2/free-handshake-icon-3312-thumb.png" width="20" height="20"> Connect With Me
+## <img src="https://www.iconpacks.net/icons/2/free-handshake-icon-3312-thumb.png" width="30" height="30"> Connect With Me
 
 
 
