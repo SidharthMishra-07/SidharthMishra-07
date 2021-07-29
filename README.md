@@ -39,7 +39,7 @@
 ---
 ### 📕 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [What Is AJAX?](https://medium.com/codechef-vit/what-is-ajax-ddb403e3478e?source=rss-7aab693898a------2)
 <!-- BLOG-POST-LIST:END -->
 
 
