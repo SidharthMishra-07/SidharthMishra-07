@@ -30,7 +30,7 @@
 <img src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" width="60" height="60"> 
 <img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="60" height="60"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="60" height="60"> 
-<img src="https://www.shareicon.net/data/2048x2048/2016/06/20/606964_github_4096x4096.png" width="80" height="60"> 
+<img src="https://www.shareicon.net/data/2048x2048/2016/06/20/606964_github_4096x4096.png" width="60" height="60"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="60" height="60">
 <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" width="60" height="60"> 
 
