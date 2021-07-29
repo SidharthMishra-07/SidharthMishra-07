@@ -30,7 +30,7 @@
 <img src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" width="50" height="50"> 
 <img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="50" height="50"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="50" height="40"> 
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50"> 
+<img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="50" height="50"> 
 <img src="https://pbs.twimg.com/profile_images/1410632439370641409/Pt-7RucE_400x400.jpg" width="50" height="50">
 <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" width="50" height="50"> 
 
