@@ -10,7 +10,7 @@
 <img src="assets/CodeGif.gif" />
 </p>
 
-## <img src="assets/AboutMe.gif" /> About Me
+## <img src="assets/AboutMe.gif" width="40" height="40" /> About Me
 - 😄 Pronouns: He/Him/His
 - 🌱 I'm currently learning Web Development 
 - 👯 I’m looking to collaborate on new projects
