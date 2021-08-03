@@ -51,7 +51,7 @@
 
 ---
 
-## <img src="https://www.iconpacks.net/icons/2/free-handshake-icon-3312-thumb.png" width="30" height="30"> Connect With Me
+## <img src="https://www.iconpacks.net/icons/2/free-handshake-icon-3312-thumb.png" width="30" height="30"> Connect With Me !
 
 <div align="center">
 <a href="https://github.com/SidharthMishra-07" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
