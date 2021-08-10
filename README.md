@@ -45,7 +45,7 @@
 
 ---
 ## :octocat: My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidharthMishra-07&hide=stars&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidharthMishra-07&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidharthMishra-07&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
