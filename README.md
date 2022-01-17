@@ -12,9 +12,9 @@
 
 ## <img src="assets/AboutMe.gif" width="40" height="40" /> About Me
 - 😄 Pronouns: He/Him/His
-- 🌱 I'm currently learning Web Development 
+- 🌱 I'm currently doing Web Development 
 - 👯 I’m looking to collaborate on new projects
-- 🥅 2021 Goal: Contribute more to Open Source projects
+- 🥅 2022 Goal: Contribute more to Open Source projects
 - 📫 Reach out to me: sidharth1604@gmail.com
 - ⚡ Fun Fact: There are two ways to write an error-free program but for me only the third one works.
 
